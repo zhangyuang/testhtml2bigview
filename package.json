@@ -11,7 +11,7 @@
   },
   "main": "./src/index.js",
   "dependencies": {
-    "html2bigview": "^0.1.0",
+    "html2bigview": "^0.1.2",
     "koa": "^2.5.3",
     "koa-bodyparser": "^4.2.1",
     "koa-compress": "^3.0.0",
